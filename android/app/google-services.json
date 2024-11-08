@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100753571599",
+    "project_id": "flutter-projects-9b320",
+    "storage_bucket": "flutter-projects-9b320.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100753571599:android:86cfc918ebda052632887a",
+        "android_client_info": {
+          "package_name": "com.andruxescarrega.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67VUoJKFT9pWo2taZawBiSeap2fTgEmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
